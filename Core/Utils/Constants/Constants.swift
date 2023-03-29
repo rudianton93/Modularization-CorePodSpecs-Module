@@ -24,11 +24,6 @@ public struct Constants {
     public static let userInactive  = UIImage(named: "user-inactive")
   }
   
-  public struct Color {
-    public static let tabNormal      = UIColor(red: 0 / 255.0, green: 59.0 / 255.0, blue: 70.0 / 255.0, alpha: 1.0)
-    public static let tabSelected    = UIColor(red: 102 / 255.0, green: 165 / 255.0, blue: 173 / 255.0, alpha: 1.0)
-  }
-  
   public struct Image {
     public static let profile   = UIImage(named: "PhotoProfile")
     public static let search  = UIImage(named: "search")
