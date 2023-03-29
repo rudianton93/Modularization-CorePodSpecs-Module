@@ -32,5 +32,6 @@ public struct Constants {
   public struct Image {
     public static let profile   = UIImage(named: "PhotoProfile")
     public static let search  = UIImage(named: "search")
+    public static let iconSelected  = UIImage(named: "icon-favorite-selected")
   }
 }
