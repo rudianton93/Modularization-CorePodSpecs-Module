@@ -31,7 +31,6 @@ public class GamesTableViewCell: UITableViewCell {
     viewContainer.layer.shadowRadius = 6
     viewContainer.layer.cornerRadius = 16
     gameImage.layer.cornerRadius = 16
-    favoritBtn.setImage(Constants.Image.iconSelected, for: .normal)
   }
   
   @IBAction func favoritTapped(_ sender: Any) {
